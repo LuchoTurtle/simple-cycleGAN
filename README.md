@@ -18,5 +18,5 @@ First iterations             |  After 8000 training iterations
 ![](results/sample-008000-Y-X.png)  |  ![](results/sample-008000-X-Y.png)
 
 ## License
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](http://unlicense.org/)
 
